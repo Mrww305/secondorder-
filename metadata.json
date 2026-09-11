@@ -1,0 +1,7 @@
+{
+  "name": "Legislative Second-Order Effect Simulation Sandbox",
+  "description": "2026 Sovereign Macroeconomic Policy War Room & Agent-Based Second-Order Effect Simulation Engine for NITB, MoITT, and Industry 4.0 regulatory evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
